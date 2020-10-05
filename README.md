@@ -5,3 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ## Requirements
 
 Commodo nulla facilisi nullam vehicula ipsum a arcu cursus. Urna molestie at elementum eu facilisis. Elit sed vulputate mi sit amet mauris. Sit amet massa vitae tortor condimentum lacinia. Posuere ac ut consequat semper viverra nam libero justo laoreet. Malesuada fames ac turpis egestas integer eget aliquet. Dolor sit amet consectetur adipiscing elit. Nascetur ridiculus mus mauris vitae ultricies leo integer malesuada nunc. Ut diam quam nulla porttitor massa id neque. Posuere ac ut consequat semper viverra nam libero. Venenatis lectus magna fringilla urna. Feugiat nibh sed pulvinar proin gravida hendrerit lectus a. Orci nulla pellentesque dignissim enim.
+
+## Installation
+
+Nec dui nunc mattis enim ut. Diam phasellus vestibulum lorem sed. Sit amet volutpat consequat mauris nunc. Eu augue ut lectus arcu bibendum at varius vel pharetra. Orci ac auctor augue mauris augue neque gravida in fermentum. Phasellus faucibus scelerisque eleifend donec pretium vulputate sapien nec sagittis. Amet luctus venenatis lectus magna fringilla urna porttitor rhoncus. Quam quisque id diam vel quam. Lectus urna duis convallis convallis. At tellus at urna condimentum mattis pellentesque id nibh.
